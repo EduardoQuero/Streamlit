@@ -178,6 +178,5 @@ def main():
     st.write('## Proporção de aceite')
     st.pyplot(plt)
 
-
 if __name__ == '__main__':
     main()
